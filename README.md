@@ -8,8 +8,9 @@ repo for testing out using git/github
 
 ## Data and file information
 
-- 
-
+- describe the files corresponding to data
+- describe the files corresponding to code
+- (optional but nice) provide a tree diagram
 
 ## Rendered output
 
